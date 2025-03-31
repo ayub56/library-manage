@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Football",
+    "author": "Ronaldo",
+    "publicaton_year": 2023,
+    "read_status": "Read",
+    "added_date": "2025-03-24 23:22:04"
+  },
+  {
+    "title": "Gaming in c#",
+    "author": "Edward",
+    "publicaton_year": 2021,
+    "read_status": "Unread",
+    "added_date": "2025-03-24 23:22:11"
+  },
+  {
+    "title": "Psychology",
+    "author": "John Eric",
+    "publicaton_year": 2020,
+    "read_status": "Read",
+    "added_date": "2025-03-24 23:22:47"
+  },
+  {
+    "title": "C++",
+    "author": "john Ritchard",
+    "publicaton_year": 2022,
+    "read_status": "Read",
+    "added_date": "2025-03-24 23:22:56"
+  }
+]
